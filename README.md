@@ -1,2 +1,2 @@
-# Php-repo
-PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
+# CSS repo.
+CSS is the language we use to style an HTML document.
